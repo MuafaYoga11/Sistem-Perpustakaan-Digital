@@ -24,7 +24,7 @@ Aplikasi ini dilengkapi dengan berbagai fitur esensial untuk manajemen perpustak
 | :--- | :--- |
 | **Backend / Logic** | PHP |
 | **Database** | MySQL / MariaDB |
-| **Frontend / UI** | HTML5, CSS3, Bootstrap / Tailwind CSS |
+| **Frontend / UI** | HTML5, CSS3 |
 | **Server Environment** | Laragon |
 
 ---

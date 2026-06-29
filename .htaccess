@@ -1,0 +1,7 @@
+DirectoryIndex index.php
+
+# Optional: clean URLs without ".php" extension
+# Uncomment the block below if you want to hide the .php suffix.
+RewriteEngine On
+RewriteBase /Database/
+RewriteRule ^$ pages/peminjaman/ [L,R=302]
